@@ -4,7 +4,7 @@ Created in less than a **day**!
 
 ## Usage
 1. Make sure you have **Forge 1.8.9**
-2. Download the ***latest*** version from [Releases](https://github.com/Desco19/WaterSolver/releases/)
+2. Download the ***latest*** version from [Releases](https://github.com/Desco20/WaterSolver/releases/)
 3. Put it to your **mods** folder
 4. Launch your instance
 5. **START SOLVING!**
@@ -19,4 +19,4 @@ Created in less than a **day**!
 - **GET CODING**
 
 ## Got a problem?
-- Make an **issue** ticket [here](https://github.com/Desco19/WaterSolver/issues)
+- Make an **issue** ticket [here](https://github.com/Desco20/WaterSolver/issues)
